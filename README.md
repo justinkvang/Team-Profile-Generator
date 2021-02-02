@@ -20,6 +20,7 @@
 
   ## Usage
   ![Gif demo of team-profile-generator](./Assets/walk-through.gif)
+  ![example on web](./Assets/example.png)
   
   When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions.
 
